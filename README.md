@@ -1,7 +1,7 @@
 # Lego
 
-*© Star Wars Animations 44*
+*𝔏𝔢 ℭ𝔞𝔳𝔞𝔩𝔦𝔢𝔯 ℜ𝔦𝔞𝔫𝔱*
 
-The list of every Lego Star Wars sets I ever owned.
+The list of every Lego sets I ever owned.
 
-Link: https://starwarsanimations44.github.io/lego/lego.html
+Link: https://lecavalierriant.github.io/lego/lego.html
