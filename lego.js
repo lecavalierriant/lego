@@ -1,5 +1,6 @@
 function initialize() {
-	 document.querySelectorAll("a").forEach(
+	table = document.querySelectorAll("table")[0];
+	table.querySelectorAll("a").forEach(
 		a => {
 			a.href =
 				"https://www.lego.com/en-us/service/buildinginstructions/" +
@@ -7,7 +8,7 @@ function initialize() {
 			;
 		}
 	);
-	 document.querySelectorAll("img").forEach(
+	table.querySelectorAll("img").forEach(
 		img => {
 			img.src =
 				"https://www.lego.com/cdn/product-assets/product.img.pri/" +
