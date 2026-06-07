@@ -1,3 +1,10 @@
 * {font-family: bahnschrift;}
 
+a {text-decoration: none;}
+
 body {background-image: url(background.png);}
+
+iframe {width: 100%;}
+
+img {height: 75px;}
+table img {height: 100%;}
